@@ -1,6 +1,6 @@
 The project is the game Snake that are usually included in flip phones.
 
-The project is a game that is designed to make the user happy while playing it because of how many apples can you get.
+The project is a game that is designed to make the user happy while playing it because of how many apples you can get.
 
 This project requires that you know how to use GUI design. I recommend you go into 2 programming college classes before doing this project to understand it.
 
